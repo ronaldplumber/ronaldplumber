@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data education.
 - 📫 How to reach me: ronaldplumber250@gmail.com
 - 😄 Pronouns: HE/HIS/HIM
-- ⚡ Fun fact: I am a former boxer. I won a local Golden Glove tournament. I currently participate in powerlifting, although not competitively. My current highest lifts (in pounds) are 465/620/495 in the bench press, deadlift, and squat, respectively.
+- ⚡ Fun fact: I am a former boxer. I won a local Golden Glove tournament. I currently participate in powerlifting, although not competitively. My current highest lifts (in pounds) are 405/620/495 in the bench press, deadlift, and squat, respectively.
 
 <!---
 ronaldplumber/ronaldplumber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
