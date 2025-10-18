@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronaldplumber. I am a Financial Aid Counselor at the University of Louisiana @ Lafayette. I am currently learning transitioning into a data science professional. Needless to say, I am new to GitHub. Any guidance along this data journey is greatly appreciated      and accepted with opened arms.
+- 👋 Hi, I’m @ronaldplumber. I am a Business Analyst at at small consulting company called High Performance Teams. I am currently learning transitioning into a data science professional. Needless to say, I am new to GitHub. Any guidance along this data journey is greatly appreciated and accepted with opened arms.
 - 👀 I’m interested in stocks, data science, NLP, LLMs, music, and basketball.
 - 🌱 I’m currently learning data analysis as part of Data Career Jumpstart. I am also a Data Science Master's student at Eastern University. 
 - 💞️ I’m looking to collaborate on data education.
