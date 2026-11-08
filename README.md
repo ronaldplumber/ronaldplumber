@@ -2,7 +2,7 @@
 - 👀 I’m interested in stocks, data science, NLP, LLMs, and manual and automation QA.
 - I am a University of Louisiana at Lafayette MBA graduate as well as a recent MS Data Science graduate at Eastern University.  
 - 📫 How to reach me: ronaldplumber250@gmail.com
-- ⚡ Fun fact: I am a former boxer. I won a local Golden Glove tournament. I currently participate in powerlifting, although not competitively. My current highest lifts (in pounds) are 405/620/495 in the bench press, deadlift, and squat, respectively.
+
 
 <!---
 ronaldplumber/ronaldplumber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
